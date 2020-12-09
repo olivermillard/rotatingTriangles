@@ -22,7 +22,7 @@ function getHeight() {
   );
 }
 
-function createTriangles() {
+function createTriangles(type) {
   var centerX = getWidth() / 2;
   var centerY = getHeight() / 2;
   console.log(centerX, centerY);

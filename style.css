@@ -37,11 +37,11 @@ body {
   animation: rotation 1s infinite linear;
 } */
 
-@-webkit-keyframes rotation {
+/* @-webkit-keyframes rotation {
   from {
     -webkit-transform: rotate(0deg);
   }
   to {
     -webkit-transform: rotate(359deg);
   }
-}
+} */
